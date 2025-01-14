@@ -9,5 +9,5 @@ POS	NAME	UNITS	TYPE	REFERENCE
 8	W12x4 Wood Screw	16	STD	DIN 7997 4 x 12
 10	Clamp Ring	2	POSH	/3DParts/ClampRing/okh-ClampRing.toml
 11	Comb Module	5	POSH	/3DParts/CombModul/okh-CombModul.toml
-15	Module D	1	MOSH	https://github.com/OPEN-NEXT/LOSH-dummy-MOSH-D/releases/tag/v1.0.0
-16	3m String	1	BUY	⌀2…3 mm, Polypropylen
+15	3m String	1	BUY	⌀2…3 mm, Polypropylen
+16	Module D	1	MOSH	https://github.com/OPEN-NEXT/LOSH-dummy-MOSH-D/releases/tag/v1.0.0
